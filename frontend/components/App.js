@@ -22,7 +22,7 @@ export default function App() {
   const redirectToArticles = () => { /* ✨ implement */ }
 
   const logout = () => {
-    // ✨ implement
+    // ✨ implement 
     // If a token is in local storage it should be removed,
     // and a message saying "Goodbye!" should be set in its proper state.
     // In any case, we should redirect the browser back to the login screen,
